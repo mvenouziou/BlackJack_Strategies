@@ -1,5 +1,3 @@
-# card_games
-
 BlackJack Strategies
 
 Includes:
