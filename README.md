@@ -1,6 +1,6 @@
 # card_games
 
-BlackJack Simulator
+BlackJack Strategies
 
 Includes:
 - Blackjack game for 1 on 1 play with an arbitrary number of cards and dealer strategies.
